@@ -53,4 +53,4 @@ echo '------------------------------------------------------'
 git clone https://github.com/GabrielCrackPro/JS-TaskApp.git #JS Task App
 echo 'Cloned 17/18'
 echo '------------------------------------------------------'
-git clone https://github.com/GabrielCrackPro/beer-counter.git #Beer Counte
+git clone https://github.com/GabrielCrackPro/beer-counter.git #Beer Counter
