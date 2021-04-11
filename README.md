@@ -21,3 +21,4 @@ A script that clones all my repos
 - [x] <a href="https://github.com/GabrielCrackPro/TODO-App">TODO App</a> - **_Created 01/03/2021_**
 - [x] <a href="https://github.com/GabrielCrackPro/pokemon-tcg-app">Pokemon TCG App</a> - **_Created 03/03/2021_**
 - [x] <a href="https://github.com/GabrielCrackPro/Words-API-App">Words-API-App</a> - **_Created 12/03/2021_**
+- [x] <a href="https://github.com/GabrielCrackPro/beer-counter">Beer Counter</a> - **_Created 11/04/2021_**
